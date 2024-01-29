@@ -1,0 +1,352 @@
+---
+layout: post
+title: "led방등 추천 TOP10 - Bayon LED 고정형 십자 등기구 60W 삼성 칩셋, 화이트"
+author: ShoppingTop10
+categories: shopping
+tags: [Top10, shopping]
+pin: true
+---
+
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**led방등**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
+
+<style>
+    /* 기본 스타일 */
+    .product-box {
+        border: 1px solid #ddd;
+        padding: 20px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+	h1 {
+        font-size: 2.2em; /* 기본 글꼴 크기 */
+	}
+	
+	h3 {
+        font-size: 1.3em; /* 기본 글꼴 크기 */
+	}
+	
+    .product-box img {
+        width: 250px; /* 이미지가 부모 요소의 100%를 차지하도록 설정 */
+        height: auto;
+        border-radius: 10px;
+    }
+
+    /* 미디어 쿼리 추가 */
+    @media screen and (max-width: 600px) {
+        .product-box {
+            font-size: 15px; /* 작은 크기로 조절 */
+            flex-direction: column; /* 화면이 작아질 때 세로로 정렬 */
+            align-items: center; /* 가운데 정렬을 위해 추가 */
+        }
+        .product-box img {
+            max-width: 100%; /* 이미지의 최대 크기를 100%로 설정 (원래 크기로 확대) */
+            width: 250px; /* 이미지의 크기를 원래 크기로 설정 */
+            height: auto;
+        }
+        
+        h1 {
+        font-size: 1.8em; /* 기본 글꼴 크기 */
+		}
+		
+        h3{
+        font-size: 1.2em; /* 기본 글꼴 크기 */
+		}
+    }
+</style>
+<div>
+
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7368470473&traceid=V0-153&itemId=19001583245&vendorItemId=86126557272" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ohbjm8c2/551c707de936444e8ff5c8e62a174028.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        1. Bayon LED 고정형 십자 등기구 60W 삼성 칩셋, 화이트
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">20%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">11,300원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 225개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7368470473&traceid=V0-153&itemId=19001583245&vendorItemId=86126557272" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6234894007&traceid=V0-153&itemId=12551042467&vendorItemId=79819375933" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/299941332924341-648685ce-fd53-4da3-9050-8fb3a12b7731.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        2. 원하 삼성칩 초슬림 시스템 방등 LED60W 주광색 플리커프리, 화이트
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">23%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">13,900원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 2327개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6234894007&traceid=V0-153&itemId=12551042467&vendorItemId=79819375933" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6651885932&traceid=V0-153&itemId=15243979030&vendorItemId=82464723897" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1658945614759334-9e44291c-50e2-42ca-aaca-056a70647e01.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        3. 홈플래닛 삼성 칩셋 플리커프리 LED 정사각 방등 천장등 60W (친절한 설명서), 화이트 주광색
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">60%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">19,490원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 4771개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6651885932&traceid=V0-153&itemId=15243979030&vendorItemId=82464723897" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7295300799&traceid=V0-153&itemId=18655111247&vendorItemId=85786718116" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/e7ea/3601bbfe2a834ed82707bac2c2249d97fac77d4644d7c3883e8695305502.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        4. LED 뉴 시스템 방등 조명 전등 삼성 60W 화이트(K-001), 화이트
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">28%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">16,500원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 3758개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7295300799&traceid=V0-153&itemId=18655111247&vendorItemId=85786718116" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7657691446&traceid=V0-153&itemId=20392581458&vendorItemId=79559212910" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9cca/08d6d659ced800425075e1056699c641c38d326c970b8b2159ec8710640f.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        5. 국산 삼성칩 다비드 시스템 리모컨 LED 방등 60W 6500K 주광색 흰빛 천장밀착형 LED등 거실등 오늘출발
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">40%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">39,950원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 6개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7657691446&traceid=V0-153&itemId=20392581458&vendorItemId=79559212910" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=5642982234&traceid=V0-153&itemId=12716289401&vendorItemId=86554623479" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9011/bc33e5f0d293cf35d66a7a3c5055fc89fdd7f278f690dac443320d28066f.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        6. 성진조명 LED 리모컨 방등 50W 밝기조절 타이머 취침등 삼성칩 플리커프리, 나래_리모컨+방등
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">69%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">29,040원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 761개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=5642982234&traceid=V0-153&itemId=12716289401&vendorItemId=86554623479" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7230759081&traceid=V0-153&itemId=18346929634&vendorItemId=85490995820" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4709642113201477-871db1f9-5d51-4351-a46e-0ddba2e19b73.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        7. 홈플래닛 삼성 칩셋 LED 정사각 방등 천장등 50W + 리모컨 세트 (친절한 설명서), 혼합색상
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">67%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">21,990원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1754개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7230759081&traceid=V0-153&itemId=18346929634&vendorItemId=85490995820" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6111016953&traceid=V0-153&itemId=11517450692&vendorItemId=78792586767" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/6hkw3apc/a84de27937fe4d46a2bb8126a549f931.png" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        8. 오스람 플리커프리 LED 방등 60W, 화이트
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">19%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">29,900원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 3161개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6111016953&traceid=V0-153&itemId=11517450692&vendorItemId=78792586767" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7837193969&traceid=V0-153&itemId=21325843374&vendorItemId=88384713002" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/64c7/e3c0ec0b18c9439e83343b54bdd06b06250a07429654d82fb2b633af9a5a.png" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        9. 슬림 시스템 프리미엄 LED방등 60W 정품삼성칩 플리커프리 주광색(6500K)
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">32%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">13,500원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 3개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7837193969&traceid=V0-153&itemId=21325843374&vendorItemId=88384713002" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=222055613&traceid=V0-153&itemId=695277163&vendorItemId=3289619160" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2439960497441968-8abf84b6-4600-4597-8af5-f74d58570ebe.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        10. 번개표 금호전기 LED 원형방등 50W, 주광색
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">75%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">17,850원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 3636개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=222055613&traceid=V0-153&itemId=695277163&vendorItemId=3289619160" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        </div>
+<br> [📢 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.](https://link.coupang.com/a/baae76){: .center}
